@@ -18,5 +18,5 @@ jobs:
         with:
           username: ${{ secrets.YUSUFME3 }}
           password: ${{ secrets.YUSUFME3P }}
-          repository: yusufme3/yr-apache-image
+          repository: yusufme3/dockerhubgithub
           tag_with_ref: true
